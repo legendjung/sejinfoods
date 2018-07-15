@@ -12,7 +12,7 @@
           <ul class="timeline">
             <li class="timeline">
               <div class="timeline-image">
-                <img class="rounded-circle img-fluid img" src="../img/about/about_1.jpg" alt="">
+                <img class="rounded-circle img-fluid img" src="../img/about/about_1.JPG" alt="">
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -25,7 +25,7 @@
             </li>
             <li class="timeline-inverted">
               <div class="timeline-image">
-                <img class="rounded-circle img-fluid img" src="../img/about/about_2.jpg" alt="">
+                <img class="rounded-circle img-fluid img" src="../img/about/about_2.JPG" alt="">
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -38,7 +38,7 @@
             </li>
             <li class="timeline">
               <div class="timeline-image">
-                <img class="rounded-circle img-fluid img" src="../img/about/about_3.jpg" alt="">
+                <img class="rounded-circle img-fluid img" src="../img/about/about_3.JPG" alt="">
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -51,7 +51,7 @@
             </li>
             <li class="timeline-inverted">
               <div class="timeline-image">
-                <img class="rounded-circle img-fluid img" src="../img/about/about_4.jpg" alt="">
+                <img class="rounded-circle img-fluid img" src="../img/about/about_4.JPG" alt="">
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -64,7 +64,7 @@
             </li>
             <li class="timeline">
               <div class="timeline-image">
-                <img class="rounded-circle img-fluid img" src="../img/about/about_5.jpg" alt="">
+                <img class="rounded-circle img-fluid img" src="../img/about/about_5.JPG" alt="">
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
